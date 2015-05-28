@@ -31,14 +31,14 @@ while Firefox displays a generic confirmation message.
 This module is compatible with OpenERP 7.0.
 ''',
     'version': '7.0.1',
-    'author': 'Therp BV',
+    'author': "Therp BV,Odoo Community Association (OCA)",
     'category': 'Usability',
     'website': 'https://launchpad.net/web-addons',
     'license': 'AGPL-3',
     'depends': [
         'web',
-        ],
+    ],
     'js': [
         'static/src/js/web_confirm_window_close.js'
-        ],
+    ],
 }

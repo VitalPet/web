@@ -44,12 +44,12 @@ Contacts :
     * Sylvain LE GAL (https://twitter.com/legalsylvain);
     * <informatique@grap.coop> for any help or question about this module.
     """,
-    'author': 'GRAP',
+    'author': "GRAP,Odoo Community Association (OCA)",
     'website': 'http://www.grap.coop',
     'license': 'AGPL-3',
     'depends': [
         'web',
-        ],
+    ],
     'data': [],
     'demo': [],
     'js': [
