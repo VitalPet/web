@@ -22,7 +22,7 @@
 
 {
     'name': 'Multicompany - Easy Switch Company',
-    'version': '1.0',
+    'version': '8.0.1.0.0',
     'category': 'web',
     'description': """
 Add menu to allow user to switch to another company more easily
@@ -51,7 +51,7 @@ Copyright, Author and Licence:
     * Copyright: 2014, Groupement Régional Alimentaire de Proximité;
     * Author: Sylvain LE GAL (https://twitter.com/legalsylvain);
     * Licence: AGPL-3 (http://www.gnu.org/licenses/)""",
-    'author': 'GRAP',
+    'author': "GRAP,Odoo Community Association (OCA)",
     'website': 'http://www.grap.coop',
     'license': 'AGPL-3',
     'depends': [

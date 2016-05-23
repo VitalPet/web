@@ -20,8 +20,8 @@
 ##############################################################################
 {
     'name': 'Help Online',
-    'version': '1.0',
-    'author': 'ACSONE SA/NV',
+    'version': '8.0.1.0.0',
+    'author': "ACSONE SA/NV,Odoo Community Association (OCA)",
     'maintainer': 'ACSONE SA/NV',
     'website': 'http://www.acsone.eu',
     'category': 'Documentation',
@@ -48,7 +48,6 @@ Note: When updating the page prefix parameters, the record rules must be
       adapted.
     """,
     'data': [
-        'data/help_auto_backup.xml',  # must always be the first
         'security/help_online_groups.xml',
         'security/help_online_rules.xml',
         'views/export_help_wizard_view.xml',
